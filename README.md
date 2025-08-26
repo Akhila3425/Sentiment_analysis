@@ -19,4 +19,5 @@ The given Python code is a complete pipeline for performing sentiment analysis o
 OUTPUT
 <img width="1392" height="783" alt="Image" src="https://github.com/user-attachments/assets/cf838183-d7cf-4c7a-b868-e7fbcf494e05" />
 
+<img width="1536" height="813" alt="Image" src="https://github.com/user-attachments/assets/a8d4bb49-e006-46d0-99dc-da16fb800ea2" />
 
